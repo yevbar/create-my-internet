@@ -1,0 +1,14 @@
+{
+  "name": "create-my-internet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "create-your-internet": "bin/create-my-internet.js"
+  },
+  "dependencies": {
+    "internetdata": "^1.1.15",
+    "readline-sync": "^1.4.10",
+    "which": "^5.0.0"
+  }
+}

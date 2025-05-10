@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Vibe coding
+.aider*
+
+# Dummy value
+my_project
