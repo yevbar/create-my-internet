@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "create-your-internet": "bin/create-my-internet.js"
+    "create-my-internet": "bin/create-my-internet.js"
   },
   "dependencies": {
     "internetdata": "^1.1.15",
